@@ -1,4 +1,4 @@
-const {Node, Stack} = require("Stack");
+const {Node, Stack} = require("./stack");
 
 class BrowserHistory {
     constructor() {
